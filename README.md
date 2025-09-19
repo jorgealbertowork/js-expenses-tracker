@@ -6,7 +6,7 @@ Keep track of income and expenses. Add and remove items; and save to local stora
 
 ## Project Specifications
 
-- Create UI for project
+- Clean UI elements
 - Display transaction items in DOM
 - Show balance, expense and income totals
 - Add new transation and reflect in total
